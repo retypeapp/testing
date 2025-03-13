@@ -1,0 +1,22 @@
+# ---------------------
+# Retype
+# ---------------------
+
+input: ./
+output: .retype
+url: example.com
+
+branding:
+  title: Testing
+  label: v0.1
+
+meta:
+  title: " - DOCS"
+
+generator:
+  # paths: root
+  # sitemap: true
+  trailingSlash: false # default is true
+
+edit:
+  repo: github.com/retypeapp/testing/
