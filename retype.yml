@@ -14,7 +14,7 @@ meta:
   title: " - DOCS"
 
 generator:
-  # paths: root
+  paths: root
   # sitemap: true
   trailingSlash: false # default is true
 
