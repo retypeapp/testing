@@ -4,7 +4,7 @@
 
 input: ./
 output: .retype
-url: example.com
+url: retypeapp.github.io
 
 branding:
   title: Testing
@@ -15,8 +15,7 @@ meta:
 
 generator:
   paths: root
-  # sitemap: true
-  trailingSlash: false # default is true
+  trailingSlash: false
 
 edit:
   repo: github.com/retypeapp/testing/
